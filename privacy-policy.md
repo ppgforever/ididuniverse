@@ -1,6 +1,6 @@
 # IdidUniverse Privacy Policy
 
-**Last updated:** October 2, 2026
+**Last updated:** October 17, 2026
 
 IdidUniverse is developed and operated by an individual developer (not a registered company). This Privacy Policy explains what information IdidUniverse ("IdidUniverse," "we," "us," or "our") collects when you use the IdidUniverse mobile app (the "App"), how we use it, and the choices you have. By using the App, you agree to the collection and use of information as described here.
 
@@ -21,7 +21,6 @@ IdidUniverse is developed and operated by an individual developer (not a registe
 **Automatically collected technical information:**
 
 - Standard sign-in and app diagnostic data collected by Firebase Authentication as part of providing sign-in.
-- If the App is showing advertising (see Section 4), Google AdMob may collect device and advertising-identifier information under its own privacy policy.
 
 ## 2. How We Use Information
 
@@ -33,7 +32,6 @@ We use the information above to:
   - **Category** (e.g., "Kitchen chore"), used to group similar activities so feedback can be shared across them.
 - Screen content for material that isn't suitable for a general audience (explicit sexual content, graphic violence, hate speech, drug glorification, or self-harm content) so it is never shown to other users.
 - Respond to support requests, using your support code to locate your account.
-- Show advertising, once ad serving is fully configured for production (see Section 4).
 
 We do not use your activity content to build an advertising profile of you, and we do not sell your information to anyone.
 
@@ -44,13 +42,12 @@ We do not use your activity content to build an advertising profile of you, and 
   - **Google Firebase** — authentication (Google/Facebook sign-in).
   - **Microsoft Azure** — database hosting for your account and activity data.
   - **Meta (Facebook)** — only if you choose to sign in with Facebook.
-  - **Google AdMob** — in-app advertising (see Section 4).
 - We do not share your data with anyone else, and we do not sell personal information.
 - We may disclose information if required by law, or to investigate violations of our [Terms of Service](terms-of-service.html).
 
 ## 4. Advertising
 
-The App is built to show banner advertising through Google AdMob. As of this writing, the App is wired to Google's sample test ad unit and is not yet serving live ads. Once live ads are enabled, this section will be updated to describe AdMob's data collection (such as advertising identifiers) and to link to Google's own privacy policy, and we will implement a consent flow (e.g., Google's User Messaging Platform) where required by applicable law (such as GDPR/UK regions).
+The App does not currently show advertising and does not include an advertising SDK, so no advertising identifiers are collected. If we add advertising in the future, we will update this Privacy Policy first to describe what the advertising provider collects, and we will ask for your consent where the law requires it.
 
 ## 5. Data Storage and Security
 

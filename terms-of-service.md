@@ -1,6 +1,6 @@
 # IdidUniverse Terms of Service
 
-**Last updated:** October 2, 2026
+**Last updated:** October 17, 2026
 
 These Terms of Service ("Terms") govern your use of the IdidUniverse mobile app (the "App"), operated by IdidUniverse ("we," "us," or "our"), an individual developer (not a registered company). By creating an account or using the App, you agree to these Terms. If you don't agree, please don't use the App.
 
@@ -43,7 +43,7 @@ IdidUniverse lets users share difficult moments and receive supportive reactions
 
 ## 6. Advertising
 
-The App may display advertising served through Google AdMob. See the Privacy Policy for details on advertising data collection.
+The App does not currently display advertising. If we add advertising in the future, we will update these Terms and the Privacy Policy first.
 
 ## 7. Account Deletion and Termination
 
