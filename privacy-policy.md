@@ -55,7 +55,7 @@ Your data is stored in a Microsoft Azure SQL Database with encryption at rest (T
 
 ## 6. Data Retention and Deletion
 
-You may permanently delete your account at any time from the Profile page (Support → Delete Account). This immediately and permanently deletes:
+You may permanently delete your account at any time from the Settings page (Support → Delete Account). This immediately and permanently deletes:
 
 - Your account record.
 - Every activity you've logged.
@@ -72,11 +72,11 @@ IdidUniverse is intended for users aged 13 and older. We ask users to confirm th
 
 - **Access/export:** your activities and feedback are visible to you directly in the App at any time.
 - **Deletion:** see Section 6.
-- **Support:** contact us using the support code shown on your Profile page, so we can locate your account without needing your email.
+- **Support:** contact us using the support code shown on your Settings page, so we can locate your account without needing your email.
 
 ## 9. Contact Us
 
-Questions about this Privacy Policy can be sent to **ididuniverse@gmail.com**. If you're contacting us about your own account, please include your support code (found on the Profile page) so we can find your records.
+Questions about this Privacy Policy can be sent to **ididuniverse@gmail.com**. If you're contacting us about your own account, please include your support code (found on the Settings page) so we can find your records.
 
 ## 10. Changes to This Policy
 

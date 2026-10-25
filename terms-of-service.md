@@ -13,7 +13,7 @@ You must be at least 13 years old to use IdidUniverse. By checking the age/Terms
 - You sign in using a Google or Facebook account. We do not collect your email address or real name — see the Privacy Policy for details.
 - Each sign-in identity maps to one IdidUniverse account.
 - You're responsible for activity that happens through your account via your chosen sign-in method.
-- If you lose access or need help, use the support code shown on your Profile page to identify your account to us — it is an identifier for support purposes only, not a password, and should not be shared publicly.
+- If you lose access or need help, use the support code shown on your Settings page to identify your account to us — it is an identifier for support purposes only, not a password, and should not be shared publicly.
 
 ## 3. Content You Submit
 
